@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pasya Converter", "Pasya Converter\Pasya Converter.csproj", "{7E1A13AE-1A41-4B2A-95AE-9CFC4831F374}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E1A13AE-1A41-4B2A-95AE-9CFC4831F374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E1A13AE-1A41-4B2A-95AE-9CFC4831F374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E1A13AE-1A41-4B2A-95AE-9CFC4831F374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E1A13AE-1A41-4B2A-95AE-9CFC4831F374}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B590699F-CE6D-41AB-B4BE-AC316C2CCF09}
+	EndGlobalSection
+EndGlobal
